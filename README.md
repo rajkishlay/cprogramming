@@ -1,8 +1,10 @@
-# cprogramming
+# Two Player Tic-Tac-Toe Game in C
 
-tictactoeC.c ---> The main source code file
+###The main source code file :
+-tictactoeC.c 
 
-tictactoeC.exe ---> Executable file for the project
+###Executable file for the project:
+-tictactoeC.exe
 
 ##About The Game
  - This is a two player tic tac toe game ( meaning both the players are human ).
