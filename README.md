@@ -25,7 +25,7 @@ Alternates between Player1 and Player2. Enter a digit [1-9] to move:
 - A player makes an illegal move; their opponent wins
    
 
-## Challenges Faced and How Was It Overcome
+## Challenges Faced 
 | No. | Challenge | Solution
 |-----|-----------|--------
 |1. | Output was not matching the expectation | Modified the logic of the program and code itself 
