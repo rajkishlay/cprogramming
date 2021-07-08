@@ -1,9 +1,9 @@
 # Two Player Tic-Tac-Toe Game in C
 
-###The main source code file :
+##The main source code file :
 -tictactoeC.c 
 
-###Executable file for the project:
+##Executable file for the project:
 -tictactoeC.exe
 
 ##About The Game
