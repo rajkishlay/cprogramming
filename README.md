@@ -10,7 +10,7 @@
  - This is a two player tic tac toe game ( meaning both the players are human ).
  - The first player to place 3 of their mark forming a straight line wins.
 
- ![alt text](https://github.com/rajkishlay/cprogramming/blob/main/tic.PNG)
+ ![Project HomePage](https://github.com/rajkishlay/cprogramming/blob/main/TicTacToe%20.PNG)
 
 ## Usage
 Alternates between Player1 and Player2. Enter a digit [1-9] to move:
